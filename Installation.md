@@ -1,4 +1,4 @@
-# Installation de Hydra sur Debian 12
+# Installation de Hydra (Debian 12)
 
 Pour installer **Hydra** sur Debian 12, suivez les étapes ci-dessous.
 
@@ -43,7 +43,7 @@ sudo make install
 hydra -h
 ```
 
-# Installation de Nmap
+# Installation de Nmap (Debian 12)
 
 ```bash
 sudo apt install nmap -y
